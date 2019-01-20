@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.imgur.com/ZcWbABW.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://i.imgur.com/HpzOFpd.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://i.imgur.com/MI3nRy9.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://i.imgur.com/3xv4AkJ.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://i.imgur.com/GHOxnPN.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://i.imgur.com/a1e3IiD.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://i.imgur.com/Vcw5rWt.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://i.imgur.com/ZHVxYVQ.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://i.imgur.com/UzlFlAu.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://i.imgur.com/CavEIHY.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://i.imgur.com/YNEQrcK.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://i.imgur.com/xlhY9c7.png",
+    "clicked": false
+  }
+]

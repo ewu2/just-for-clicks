@@ -1,0 +1,13 @@
+@font-face {font-family: "PressStart2P"; src: url('../src/font/PressStart2P-Regular.ttf');}
+@font-face {font-family: "VT323"; src: url('../src/font/VT323-Regular.ttf');}
+
+* {
+  box-sizing: border-box;
+  font-family: 'VT323';
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
